@@ -13,12 +13,9 @@ As a recent graduate in Computer Science with a minor in Software Development, I
 * 🤝  I'm open to collaborating on Projects
 * ⚡  learning new things is my hobby
 
-### Skills
 
 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON
-</p>
+
 
 
 ### Socials
