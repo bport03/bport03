@@ -1,17 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Portillo
 ========================================================================================================================================
 
-Software Engineering
+Computer Scientist 
 --------------------
 
-As a recent graduate in Computer Science with a minor in Software Development, I completed my bachelor's degree in December 2023 and am currently pursuing my master's at GCU. I am eager to continuously expand my knowledge and embrace new challenges as a Software Engineer. My passion for learning and dedication to programming guide me to keep overcoming myself.
+Computer Science graduate with experience in software development, IT support, and security. Skilled in Java, C++, and Python, with a strong background in networking, debugging, and database management. Currently pursuing a master’s degree in software engineering and actively seeking full time job to start immediately.
 
 
+* 📍  Currently in Sierra Vista AZ 
 * 🌍  I'm based in El Paso TX
 * ✉️  You can contact me at [portillo03b@gmail.com](mailto:portillo03b@gmail.com)
 * 🧠  I'm learning computer security
 * 🤝  I'm open to collaborating on Projects
 * ⚡  learning new things is my hobby
+  
 
 ### Projects
 
