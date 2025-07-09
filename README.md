@@ -6,7 +6,7 @@
 
 I'm a Computer Science graduate with hands-on experience in software development, IT support, and cybersecurity. I’m skilled in **Java, C++, Python**, and currently strengthening my knowledge in **C programming**, system-level development, and network security.
 
-🎓 Currently pursuing a **Master’s in Software Engineering**  
+🎓 Currently pursuing a **Master’s in Computer Science - Path Computing Systems**  
 🔐 Passionate about **Cybersecurity, Debugging, and Networking**  
 🚀 Actively seeking a **full-time software/security engineering role**
 
